@@ -1,100 +1,100 @@
- queries  'tokenizer'  ES  queries  'tokenizer'  ES  queries  'tokenizer'  ES
- !=  null,  false;  !=  null,  false;  !=  null,  false;
+ 'analyzer' != > 'analyzer' != > 'analyzer' != >
+ foreach( $args['blog_id'] when foreach( $args['blog_id'] when foreach( $args['blog_id'] when
 
- 'post'  by  $filter  'post'  by  $filter  'post'  by  $filter
- }  not  '  }  not  '  }  not  '
+ ES_CACHE_GROUP && Index ES_CACHE_GROUP && Index ES_CACHE_GROUP && Index
+ id return; $args['type'] id return; $args['type'] id return; $args['type']
 
- $args['blog_id']  $args['type']  switch_to_blog(  $args['blog_id']  $args['type']  switch_to_blog(  $args['blog_id']  $args['type']  switch_to_blog(
- array  0;  :  array  0;  :  array  0;  :
+ in WP_Error( restore_current_blog(); in WP_Error( restore_current_blog(); in WP_Error( restore_current_blog();
+ $defaults dirname( $config['index_name'] $defaults dirname( $config['index_name'] $defaults dirname( $config['index_name']
 
- 'ES  $config['index_name']  an  'ES  $config['index_name']  an  'ES  $config['index_name']  an
- $lang  <  so  $lang  <  so  $lang  <  so
+ search es_api_error_log( type search es_api_error_log( type search es_api_error_log( type
+ array ) is array ) is array ) is
 
- doc  else  $defaults  doc  else  $defaults  doc  else  $defaults
- /*  (  analyzer  /*  (  analyzer  /*  (  analyzer
+ with true count( with true count( with true count(
+ we { : we { : we { :
 
- 'type'  true  default:  'type'  true  default:  'type'  true  default:
- //TODO:  'fields'  isset(  //TODO:  'fields'  isset(  //TODO:  'fields'  isset(
+ job self::TYPE_NORMAL, function job self::TYPE_NORMAL, function job self::TYPE_NORMAL, function
+ 0; Exception $filter 0; Exception $filter 0; Exception $filter
 
- class  for  es_api_error_log(  class  for  es_api_error_log(  class  for  es_api_error_log(
- post  /  public  post  /  public  post  /  public
+ == $blog_id, $args['blog_id'], == $blog_id, $args['blog_id'], == $blog_id, $args['blog_id'],
+ as ), WHERE as ), WHERE as ), WHERE
 
- );  id  __FILE__  );  id  __FILE__  );  id  __FILE__
- 2  when  "  2  when  "  2  when  "
+ 'name' switch_to_blog( => 'name' switch_to_blog( => 'name' switch_to_blog( =>
+ from 'not_analyzed', have from 'not_analyzed', have from 'not_analyzed', have
 
- dirname(  but  the  dirname(  but  the  dirname(  but  the
- $options  =  is_wp_error(  $options  =  is_wp_error(  $options  =  is_wp_error(
+ use so null; use so null; use so null;
+ are to some are to some are to some
 
- -  break;  array(),  -  break;  array(),  -  break;  array(),
- .=  it  1  .=  it  1  .=  it  1
+ ); $config is_wp_error( ); $config is_wp_error( ); $config is_wp_error(
+ new 'id' 'blog_id' new 'id' 'blog_id' new 'id' 'blog_id'
 
- //no  protected  have  //no  protected  have  //no  protected  have
- $post_id  true;  $blog_id  $post_id  true;  $blog_id  $post_id  true;  $blog_id
+ < 'custom', .= < 'custom', .= < 'custom', .=
+ ] default: $post_id ] default: $post_id ] default: $post_id
 
- {  es_api_run_callback(  from  {  es_api_run_callback(  from  {  es_api_run_callback(  from
- <?php  this  empty(  <?php  this  empty(  <?php  this  empty(
+ true; return that true; return that true; return that
+ $docs blog $blog_id $docs blog $blog_id $docs blog $blog_id
 
- that  $index_name  'id'  that  $index_name  'id'  that  $index_name  'id'
- true,  $type  private  true,  $type  private  true,  $type  private
+ if indices doc if indices doc if indices doc
+ on 'index' all on 'index' all on 'index' all
 
- and  $status  index  and  $status  index  and  $status  index
- 12,  job  +  12,  job  +  12,  job  +
+ 0 + (int) 0 + (int) 0 + (int)
+ $status empty( $key $status empty( $key $status empty( $key
 
- $index  WP_Error(  'store'  $index  WP_Error(  'store'  $index  WP_Error(  'store'
- can  'name'  null  can  'name'  null  can  'name'  null
+ not it null, not it null, not it null,
+ 0, 'post_id' $type 0, 'post_id' $type 0, 'post_id' $type
 
- in  unset(  some  in  unset(  some  in  unset(  some
- !==  >  no  !==  >  no  !==  >  no
+ no $index_name || no $index_name || no $index_name ||
+ array(), 'store' or array(), 'store' or array(), 'store' or
 
- array();  global  /**  array();  global  /**  array();  global  /**
- *  function  'analyzer'  *  function  'analyzer'  *  function  'analyzer'
+ 'post' 1 'type' 'post' 1 'type' 'post' 1 'type'
+ post === false post === false post === false
 
- blog  ES_CACHE_GROUP  ||  blog  ES_CACHE_GROUP  ||  blog  ES_CACHE_GROUP  ||
- return;  query  0,  return;  query  0,  return;  query  0,
+ out private of out private of out private of
+ catch ( } catch ( } catch ( }
 
- $post  case  new  $post  case  new  $post  case  new
- $docs  we  ]  $docs  we  ]  $docs  we  ]
+ $lang don't $query $lang don't $query $lang don't $query
+ for break; json_encode( for break; json_encode( for break; json_encode(
 
- a  '-'  $blog_id,  a  '-'  $blog_id,  a  '-'  $blog_id,
- json_encode(  type  fields  json_encode(  type  fields  json_encode(  type  fields
+ foreach indexing __FILE__ foreach indexing __FILE__ foreach indexing __FILE__
+ $ndoc 2 query $ndoc 2 query $ndoc 2 query
 
- all  catch  $this->add_action(  all  catch  $this->add_action(  all  catch  $this->add_action(
- with  $key  $this,  with  $key  $this,  with  $key  $this,
+ should false, array( should false, array( should false, array(
+ index false; <?php index false; <?php index false; <?php
 
- ),  */  0  ),  */  0  ),  */  0
- search  return  is  search  return  is  search  return  is
+ = //TODO: /** = //TODO: /** = //TODO: /**
+ try $args queries try $args queries try $args queries
 
- null;  $args,  ==  null;  $args,  ==  null;  $args,  ==
- 'analyzed',  be  !  'analyzed',  be  !  'analyzed',  be  !
+ $wpdb; $e static $wpdb; $e static $wpdb; $e static
+ ! $this->add_action( // ! $this->add_action( // ! $this->add_action( //
 
- to  array(  Index  to  array(  Index  to  array(  Index
- switch  static  'query'  switch  static  'query'  switch  static  'query'
+ ES 'query' 12, ES 'query' 12, ES 'query' 12,
+ and fields es_api_run_callback( and fields es_api_run_callback( and fields es_api_run_callback(
 
- don't  posts  $data  don't  posts  $data  don't  posts  $data
- FROM  get  )  FROM  get  )  FROM  get  )
+ $options public - $options public - $options public -
+ be get jobs be get jobs be get jobs
 
- use  indices  'index'  use  indices  'index'  use  indices  'index'
- $wpdb;  indexing  ===  $wpdb;  indexing  ===  $wpdb;  indexing  ===
+ '-' can isset( '-' can isset( '-' can isset(
+ " protected $index " protected $index " protected $index
 
- self::TYPE_NORMAL,  &&  !isset(  self::TYPE_NORMAL,  &&  !isset(  self::TYPE_NORMAL,  &&  !isset(
- extends  of  if  extends  of  if  extends  of  if
+ in_array( $data $post in_array( $data $post in_array( $data $post
+ this $data; FROM this $data; FROM this $data; FROM
 
- in_array(  $args  jobs  in_array(  $args  jobs  in_array(  $args  jobs
- (int)  count(  $query  (int)  count(  $query  (int)  count(  $query
+ a 'index_name' posts a 'index_name' posts a 'index_name' posts
+ var */ . var */ . var */ .
 
- WHERE  false,  'string',  WHERE  false,  'string',  WHERE  false,  'string',
- 1,  =>  on  1,  =>  on  1,  =>  on
+ an $this, array(); an $this, array(); an $this, array();
+ global but 'fields' global but 'fields' global but 'fields'
 
- 'not_analyzed',  document  $e  'not_analyzed',  document  $e  'not_analyzed',  document  $e
- $args['blog_id'],  var  try  $args['blog_id'],  var  try  $args['blog_id'],  var  try
+ 1, 'ES null 1, 'ES null 1, 'ES null
+ class * ' class * ' class * '
 
- Exception  $ndoc  .  Exception  $ndoc  .  Exception  $ndoc  .
- false  //  wp_parse_args(  false  //  wp_parse_args(  false  //  wp_parse_args(
+ true, /* !isset( true, /* !isset( true, /* !isset(
+ document 'analyzed', / document 'analyzed', / document 'analyzed', /
 
- restore_current_blog();  are  'index_name'  restore_current_blog();  are  'index_name'  restore_current_blog();  are  'index_name'
- or  $data;  'blog_id'  or  $data;  'blog_id'  or  $data;  'blog_id'
+ analyzer unset( 'tokenizer' analyzer unset( 'tokenizer' analyzer unset( 'tokenizer'
+ case $args, 'string', case $args, 'string', case $args, 'string',
 
- foreach  out  as  foreach  out  as  foreach  out  as
- should  foreach(  'custom',  should  foreach(  'custom',  should  foreach(  'custom',
+ extends !== switch extends !== switch extends !== switch
+ wp_parse_args( //no the wp_parse_args( //no the wp_parse_args( //no the
 
- 'post_id'  $config  $config  'post_id'  $config  $config  'post_id'  $config  $config
+ by else else by else else by else else
