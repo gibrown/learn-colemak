@@ -1,0 +1,30 @@
+ rray(
+ $this
+ /////
+ $args
+ this-
+ his->
+ blog_
+ log_i
+ og_id
+ args[
+ rgs['
+ , '
+ = arr
+ ndex_
+ e' =>
+ > arr
+ => ar
+ _name
+ ( $ar
+ ); $
+ post_
+ urn $
+ $blog
+ ) ) {
+ type'
+ $post
+ name'
+ _inde
+ 'blog
+ 'type

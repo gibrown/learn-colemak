@@ -1,0 +1,21 @@
+wp ssh ls wp ssh ls wp ssh ls
+| run svndiff | run svndiff | run svndiff
+
+wpsb ci functions.php wpsb ci functions.php wpsb ci functions.php
+add sst > add sst > add sst >
+
+deploy elasticsearch stash deploy elasticsearch stash deploy elasticsearch stash
+sup bulk-index sort sup bulk-index sort sup bulk-index sort
+
+--version=4 which diff --version=4 which diff --version=4 which diff
+less gs wpcom less gs wpcom less gs wpcom
+
+cd rm push cd rm push cd rm push
+.. --slack_report=@gibrown estest .. --slack_report=@gibrown estest .. --slack_report=@gibrown estest
+
+grep svn git grep svn git grep svn git
+* mv up * mv up * mv up
+
+--name=global phpunit cp --name=global phpunit cp --name=global phpunit cp
+list hig hig list hig hig list hig hig
+

@@ -1,0 +1,15 @@
+ > arr  his->  ndex_  > arr  his->  ndex_  > arr  his->  ndex_
+ , '  'type  ) ) {  , '  'type  ) ) {  , '  'type  ) ) {
+
+ ( $ar  $post  ); $  ( $ar  $post  ); $  ( $ar  $post  ); $
+ _inde  urn $  'blog  _inde  urn $  'blog  _inde  urn $  'blog
+
+ $blog  og_id  $args  $blog  og_id  $args  $blog  og_id  $args
+ = arr  type'  e' =>  = arr  type'  e' =>  = arr  type'  e' =>
+
+ args[  post_  => ar  args[  post_  => ar  args[  post_  => ar
+ $this  this-  rgs['  $this  this-  rgs['  $this  this-  rgs['
+
+ blog_  _name  log_i  blog_  _name  log_i  blog_  _name  log_i
+ /////  name'  rray(  /////  name'  rray(  /////  name'  rray(
+
