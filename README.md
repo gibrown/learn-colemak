@@ -8,15 +8,20 @@ The directories contain the word lists while the files at the top level have ter
 ## Building the lists
 
 Repeating 3 lines 3 times:
+```
 cat file.txt | awk '{getline b; getline c;printf("%s %s %s %s %s %s %s %s %s\n",$0,b,c,$0,b,c,$0,b,c)}' | sed -n 's/  */ /gp' | awk ' {print;} NR % 2 == 0 { print ""; }' > file.learn
+```
 
 Add new lines to split lessons into 5 sequences:
+```
 awk ' {print;} NR % 5 == 0 { print ""; }' file.learn
-
+```
 
 Build top word list from arbitrary files (eg for the command line)
+```
 history > cmds.hist
 cat cmds.hist | tr ' ' '\n' | grep -v '^[[:space:]]*$' | sed 's/^[[:space:]]*//' | sort | uniq -c | sort -rn | head -n 30 | awk '{print $2}'
+```
 
 Building 3/4/5 grams from arbitrary files (eg from code):
 ```
